@@ -1,0 +1,8 @@
+﻿  Person.cpp
+d:\dropbox\kurslar\havelsan-designpatternsuml-2018\src\011-pimpl\personimpl\project\person.cpp(4): warning C4099: 'PersonImpl': type name first seen using 'class' now seen using 'struct'
+  d:\dropbox\kurslar\havelsan-designpatternsuml-2018\src\011-pimpl\personimpl\project\person.cpp(4): note: see declaration of 'PersonImpl'
+d:\dropbox\kurslar\havelsan-designpatternsuml-2018\src\011-pimpl\personimpl\project\person.cpp(7): warning C4091: 'static ': ignored on left of 'PersonImpl' when no variable is declared
+  sample.cpp
+  Generating Code...
+  LINK : D:\Dropbox\Kurslar\Havelsan-DesignPatternsUML-2018\Src\011-Pimpl\PersonImpl\Debug\Project.exe not found or not built by the last incremental link; performing full link
+  Project.vcxproj -> D:\Dropbox\Kurslar\Havelsan-DesignPatternsUML-2018\Src\011-Pimpl\PersonImpl\Debug\Project.exe
